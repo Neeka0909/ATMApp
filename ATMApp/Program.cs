@@ -71,7 +71,7 @@ public class cardHolder
     {
         void printSystemOptions()
         {
-            Console.WriteLine("Please Choose Fron One Of The Following Options...");
+            Console.WriteLine("Please Choose From One Of The Following Options...");
             Console.WriteLine("1. Deposit");
             Console.WriteLine("2. Withdrow");
             Console.WriteLine("3. Show Balance");
